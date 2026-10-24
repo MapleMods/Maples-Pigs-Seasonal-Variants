@@ -1,6 +1,6 @@
-package io.github.maplemods.maplespigcollection;
+package io.github.maplemods.maplespigsseasonalvariants;
 
-import io.github.maplemods.maplespigcollection.data.Constants;
+import io.github.maplemods.maplespigsseasonalvariants.data.Constants;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
