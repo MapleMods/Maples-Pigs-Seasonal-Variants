@@ -1,6 +1,6 @@
 # Maple's Pigs | Seasonal Variants
 
-Minecraft 26.2.0 | Version 2.0
+Minecraft 26.2.0 | Version 2.1
 
 Download the mod here! :)
 
